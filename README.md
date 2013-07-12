@@ -1,6 +1,9 @@
 Stackato Racket Example
 =======================
 
+This example uses the buildpack
+https://github.com/philwhln/stackato-buildpack-racket
+
 Steps for running this example
 ------------------------------
 
